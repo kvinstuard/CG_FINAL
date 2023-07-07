@@ -33,6 +33,11 @@ Para desplazarse dentro del juego usa las teclas:
 
 _Abajo estan los pasos a seguir para ejecutar la app_
 
+1. Abre:
+   https://kvinstuard.github.io/CG_FINAL/
+
+### Tambien puedes:
+
 1. Clona el repo.
    ```sh
    https://github.com/kvinstuard/CG_FINAL.git
